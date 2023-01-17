@@ -4,10 +4,10 @@ Hello,
 
 i am a Developer and Teacher, my main Topics:
 
-Agriculture
-ISOBUS ISO 11783
-IEC 61499
-ESP32
+- Agriculture
+- ISOBUS ISO 11783
+- IEC 61499
+- ESP32
 
 
 - 🔭 I’m currently working on ...
