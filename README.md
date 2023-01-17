@@ -1,10 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**franz-ms-muc/franz-ms-muc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello,
 
-Here are some ideas to get you started:
--->
+i am a Developer and Teacher, my main Topics:
+
+Agriculture
+ISOBUS ISO 11783
+IEC 61499
+ESP32
 
 
 - 🔭 I’m currently working on ...
