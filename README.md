@@ -1,5 +1,8 @@
 # Hi there 👋
 
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=franz-ms-muc&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franz-ms-muc&count_private=true&show_icons=true&layout=compact)
+
 Hello,
 
 i am a Developer and Teacher, my main Topics:
